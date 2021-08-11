@@ -1,0 +1,16 @@
+HelloWorld is a Zombie
+summon
+	task SayHello
+	    say "Hello World! \n"
+	done
+bind
+
+
+aa is a Zombie
+summon
+
+
+
+
+bind
+
